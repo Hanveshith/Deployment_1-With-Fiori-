@@ -1,0 +1,33 @@
+{
+  "generationParameters": {
+    "generationDate": "Sun Nov 16 2025 13:45:04 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "Local CAP",
+    "metadataFilename": "",
+    "serviceUrl": "http://localhost:4004/mainService/",
+    "appName": "webapp",
+    "appTitle": "OrderItems",
+    "appDescription": "An SAP Fiori application.",
+    "appNamespace": "fiori.deployment",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.142.0",
+    "enableCodeAssist": false,
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": false,
+    "generatorVersion": "1.19.5",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "orderHeader"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "to_orderitems"
+      }
+    ],
+    "launchText": "To launch the generated app, start your CAP project:  and navigate to the following location in your browser:\n\nhttp://localhost:4004/fiori.deployment.webapp/index.html"
+  }
+}
