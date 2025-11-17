@@ -26,6 +26,10 @@ Please go through my repo [**Deployment without fiori**](https://github.com/Hanv
 -> npm i @sap/approuter
 ```
 * This adds "@sap/approuter": "^20.8.3" under the dependecies.
+```json
+"start": "node node_modules/@sap/approuter/approuter.js",
+```
+* Don't forget to add this line in your scripts section of package.json.
 
 Refer - [package.json](https://github.com/Hanveshith/Deployment_1-With-Fiori-/blob/main/app/package.json)
 
