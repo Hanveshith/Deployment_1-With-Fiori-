@@ -97,5 +97,5 @@ If you find other than these delete your mta.yaml file.
     4. Go to role collection in your BTP platform. In here you will find the role collections that are generated automatically based on your "xs-security.json" file.
     5. Assign that role to the user under the user section of you BTP account.
     6. Now open the fiori URL in incognito window, which asks for login -> enter your BTP credentials to access your application.
-    7. Once you success logged in you can access your application. 
+    7. Once you successfully logged in, you can access your application. 
 
